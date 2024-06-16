@@ -1,0 +1,249 @@
+[
+  {
+    "id": 1,
+    "title": "Apple",
+    "price": 1.95,
+    "description": "",
+    "pricePerQuantity": "pice",
+    "category": "Fruits and Vegtables",
+    "image": "apple",
+    "rating": {
+      "rate": 3.9,
+      "count": 120
+    }
+  },
+  {
+    "id": 16,
+    "title": "Avakado",
+    "price": 2.3,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "lb",
+    "image": "avakado",
+    "rating": {
+      "rate": 4.1,
+      "count": 259
+    }
+  },
+  {
+    "id": 13,
+    "title": "Brinjal",
+    "price": 0.99,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "lb",
+    "image": "brinjal",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 4,
+    "title": "Cauliflower",
+    "price": 15.99,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "pice",
+    "image": "cauliflower",
+    "rating": {
+      "rate": 2.1,
+      "count": 430
+    }
+  },
+  {
+    "id": 2,
+    "title": "Grapes",
+    "price": 3.2,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "lb",
+    "image": "grapes",
+    "rating": {
+      "rate": 4.6,
+      "count": 400
+    }
+  },
+  {
+    "id": 5,
+    "title": "Onion",
+    "price": 1.6,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "lb",
+    "image": "onion",
+    "rating": {
+      "rate": 3.9,
+      "count": 70
+    }
+  },
+  {
+    "id": 7,
+    "title": "Pineapple",
+    "price": 1.99,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "pice",
+    "image": "pineapple",
+    "rating": {
+      "rate": 3,
+      "count": 400
+    }
+  },
+  {
+    "id": 11,
+    "title": "Pomegranate",
+    "price": 5.99,
+    "description": "",
+    "category": "Fruits and Vegtables",
+    "pricePerQuantity": "lb",
+    "image": "pomegranate",
+    "rating": {
+      "rate": 1.9,
+      "count": 100
+    }
+  },
+  {
+    "id": 3,
+    "title": "Milk",
+    "price": 8.99,
+    "description": "",
+    "category": "Dairy Products",
+    "pricePerQuantity": "5 lt",
+    "image": "milk",
+    "rating": {
+      "rate": 3.3,
+      "count": 203
+    }
+  },
+  {
+    "id": 6,
+    "title": "Eggs",
+    "price": 12.33,
+    "description": "",
+    "category": "Dairy Products",
+    "pricePerQuantity": "12 pices",
+    "image": "eggs",
+    "rating": {
+      "rate": 2.9,
+      "count": 470
+    }
+  },
+  {
+    "id": 9,
+    "title": "Chicken",
+    "price": 4.32,
+    "description": "",
+    "category": "Meat",
+    "pricePerQuantity": "lb",
+    "image": "chicken",
+    "rating": {
+      "rate": 4.8,
+      "count": 319
+    }
+  },
+  {
+    "id": 18,
+    "title": "Crabe",
+    "price": 22.3,
+    "description": "",
+    "category": "Meat",
+    "pricePerQuantity": "lb",
+    "image": "crabe",
+    "rating": {
+      "rate": 4.8,
+      "count": 400
+    }
+  },
+  {
+    "id": 13,
+    "title": "Fish",
+    "price": 2.45,
+    "description": "",
+    "category": "Meat",
+    "pricePerQuantity": "lb",
+    "image": "fish",
+    "rating": {
+      "rate": 2.9,
+      "count": 250
+    }
+  },
+  {
+    "id": 14,
+    "title": "Goat Meat",
+    "price": 23.54,
+    "description": "",
+    "category": "Meat",
+    "image": "goatMeat",
+    "pricePerQuantity": "lb",
+    "rating": {
+      "rate": 2.2,
+      "count": 140
+    }
+  },
+  {
+    "id": 8,
+    "title": "Organic Dry Afghan Flgs",
+    "price": 56.99,
+    "description": "",
+    "category": "nuts",
+    "pricePerQuantity": "0.5 lb",
+    "image": "flgs",
+    "rating": {
+      "rate": 2.6,
+      "count": 235
+    }
+  },
+  {
+    "id": 12,
+    "title": "Whole Almonds",
+    "price": 29.95,
+    "description": "",
+    "category": "nuts",
+    "pricePerQuantity": "lb",
+    "image": "almonds",
+    "rating": {
+      "rate": 2.9,
+      "count": 340
+    }
+  },
+  {
+    "id": 17,
+    "title": "Golden Raisins",
+    "price": 39.99,
+    "description": "",
+    "category": "nuts",
+    "pricePerQuantity": "lb",
+    "image": "raisins",
+    "rating": {
+      "rate": 3.8,
+      "count": 679
+    }
+  },
+  {
+    "id": 15,
+    "title": "Pistachios",
+    "price": 39.85,
+    "description": "",
+    "category": "nuts",
+    "pricePerQuantity": "lb",
+    "image": "pistachios",
+    "rating": {
+      "rate": 4.7,
+      "count": 130
+    }
+  },
+  {
+    "id": 10,
+    "title": "Cashew",
+    "price": 7.95,
+    "description": "",
+    "category": "nuts",
+    "pricePerQuantity": "0.5 lb",
+    "image": "cashew",
+    "rating": {
+      "rate": 4.5,
+      "count": 146
+    }
+  }
+]
